@@ -1,4 +1,4 @@
-import { generateUser } from "@/lib/helper";
+import { generateUser } from "@/lib/utils";
 import { NextResponse } from "next/server";
 
 const handler = () => {
